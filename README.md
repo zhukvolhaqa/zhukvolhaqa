@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Volha Zhuk
 - 👀 I’m QA Engineer
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning Cypress and Playwright
 - ⚡ Fun fact: My surname Zhuk translates as Beetle 
 
 <!---
