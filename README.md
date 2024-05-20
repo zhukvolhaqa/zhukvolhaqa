@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Volha Zhuk
+- 👋 Hi, I’m Olga Zhuk
 - 👀 I’m a Senior QA Engineer
 - 🌱 I’m currently learning Cypress and Playwright automation
 - 🐞 Fun fact: My surname Zhuk translates as Beetle 
